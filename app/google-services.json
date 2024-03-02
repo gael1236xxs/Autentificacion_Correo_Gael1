@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "636547993143",
+    "project_id": "mandados-express-da107",
+    "storage_bucket": "mandados-express-da107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636547993143:android:a6303761a4503a4f0939b2",
+        "android_client_info": {
+          "package_name": "com.example.autentificacion_correo_gael"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6oLKXUiLqwIcbDBN3eFKHSa9TfUXLzfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636547993143:android:47c6e308af5c4dbe0939b2",
+        "android_client_info": {
+          "package_name": "com.example.mandaditose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6oLKXUiLqwIcbDBN3eFKHSa9TfUXLzfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636547993143:android:863bd49c80db7d030939b2",
+        "android_client_info": {
+          "package_name": "com.example.prueba_correo_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6oLKXUiLqwIcbDBN3eFKHSa9TfUXLzfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
